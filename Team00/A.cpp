@@ -4,6 +4,6 @@
 
 void APrint()
 {
-	printf("A\n") ;
+	printf("Z\n") ;
 }
 
